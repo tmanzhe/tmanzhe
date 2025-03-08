@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-currently building an esports platform for a community of 75k+ 
+building an esports tourney for a community of 75k+ 
 @demanesports
 @demanclub
 
