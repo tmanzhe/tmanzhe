@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-building an esports tourney for a community of 75k+ 
-@demanesports
-@demanclub
 
 <!--
 **tmanzhe/tmanzhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
