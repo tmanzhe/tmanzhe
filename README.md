@@ -34,7 +34,7 @@ ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile devel
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,githubactions,gitlab,grafana&perline=7" alt="Docker, Kubernetes, Ansible, Terraform, GitHub Actions, GitLab CI, Grafana" />
 
-**Also worked with:** SQL, Assembly, SwiftUI, Spring Security, JWT, OAuth 2.0, JPA/Hibernate, REST APIs, Prisma, TimescaleDB, ZODB, DuckDB, Parquet, Kafka, MinIO, AWS S3/RDS/EC2, ArgoCD, RKE2, TrueNAS, Tailscale, Prometheus, pytest, LangChain, Cohere, OpenAI, Gemini API, Azure Speech, MediaPipe, IndexedDB, Canvas, and Web Audio.
+<img src="https://skillicons.dev/icons?i=hibernate,prisma,kafka,prometheus,azure,figma&perline=6" alt="Hibernate, Prisma, Kafka, Prometheus, Azure, Figma" />
 
 ## 🌎 Outside of Code
 
