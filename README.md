@@ -4,6 +4,14 @@ I'm a CS / Management double-degree student at York University and Schulich, bas
 
 I'm interested in backend systems, data, and infrastructure, and I'm looking for my next internship. Always happy to learn something new and take on more as I go!
 
+## 🚧 What I'm Working On
+
+All in progress · 2026–present
+
+- **[Arc Wall](https://www.tmanzhe.com/projects/arcwall)** — A JARVIS-inspired workshop with hand-controlled projection. Working toward 3D tracking, a CAD workbench, an AI assistant, and live telemetry. [Roadmap →](https://www.tmanzhe.com/projects/arcwall)
+- **[Footage Desk](https://github.com/tmanzhe/footage-desk)** — A local workspace for organizing footage, trimming moments, and making rough cuts. Inspired by getting into videography.
+- **[Homelab](https://github.com/tmanzhe/homelab)** — Reusing old hardware to learn networking, Kubernetes, and infrastructure automation.
+
 ## 💼 Where I've Worked
 
 **Software Engineer Intern @ Kepler Communications** · Sep 2025–Apr 2026
@@ -16,28 +24,19 @@ Led a four-developer team building an esports platform for 1,000+ players, with 
 
 **Software Engineer @ ITMZ** · Jun–Aug 2024
 
-Built personalized inventory systems at a Next36 S'24 startup.
-
-## 🧩 A Few Projects
-
-- **[HN Hiring Eval](https://github.com/tmanzhe/hn-hiring-eval) · 2026** — Turning messy hiring posts into searchable data, with an evaluation harness to check extraction quality.
-- **[Clash of Plans](https://github.com/JeffreyYeet1/cop) · 2025** — A planning assistant built at GenAI Genesis. I worked on the backend and task-planning agent.
-- **[MockMate](https://github.com/tmanzhe/mockmate) · 2025** — An AI interview partner from UofTHacks 12. My first time experimenting with two prompt passes for conversation and follow-up questions :)
-- **[GestureFlow](https://github.com/tmanzhe/virtual_mouse) · 2024** — A virtual mouse controlled with hand gestures.
-
-## 🚧 What I'm Working On
-
-All in progress · 2026–present
-
-- **[Arc Wall](https://www.tmanzhe.com/projects/arcwall)** — A JARVIS-inspired workshop with hand-controlled projection. Working toward 3D tracking, a CAD workbench, an AI assistant, and live telemetry. [Roadmap →](https://www.tmanzhe.com/projects/arcwall)
-- **[Footage Desk](https://github.com/tmanzhe/footage-desk)** — A local workspace for organizing footage, trimming moments, and making rough cuts. Inspired by getting into videography.
-- **[Homelab](https://github.com/tmanzhe/homelab)** — Reusing old hardware to learn networking, Kubernetes, and infrastructure automation.
+Built a home inventory app that catalogs belongings from room photos. We were [featured in Google's Gemini API Developer Competition](https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/).
 
 ## 🛠️ Tools I Like Working With
 
-Python · Java · TypeScript · SQL · FastAPI · Spring Boot · React · Next.js · PostgreSQL · DuckDB · Docker · Kubernetes · Ansible · Grafana
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,postgres&perline=6" alt="Python, Java, TypeScript, JavaScript, C, PostgreSQL" />
 
-Outside of code: videography, photography, running, and occasionally getting on a motorcycle in Vietnam.
+<img src="https://skillicons.dev/icons?i=fastapi,spring,react,nextjs,docker,kubernetes,ansible,grafana&perline=8" alt="FastAPI, Spring, React, Next.js, Docker, Kubernetes, Ansible, Grafana" />
+
+## 🌎 Outside of Code
+
+I love traveling, usually with a camera in hand. Lately I've been getting into videography and photography, ran my first 10K, and rode the Ha Giang Loop in Vietnam.
+
+Up next: a California road trip and a mountain hike in Guatemala. Indonesia and Peru are the dream trips!
 
 ## 📫 Let's Connect
 
