@@ -24,13 +24,19 @@ Led a four-developer team building an esports platform for 1,000+ players, with 
 
 **Software Engineer @ ITMZ** · Jun–Aug 2024
 
-Built a home inventory app that catalogs belongings from room photos. We were [featured in Google's Gemini API Developer Competition](https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/).
+Built a home inventory app that catalogs belongings from room photos. We were [featured in Google's Gemini API Developer Competition](https://ai.google.dev/competition).
 
-## 🛠️ Tools I Like Working With
+## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,postgres&perline=6" alt="Python, Java, TypeScript, JavaScript, C, PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,dart,swift&perline=7" alt="Python, Java, TypeScript, JavaScript, C, Dart, Swift" />
 
-<img src="https://skillicons.dev/icons?i=fastapi,spring,react,nextjs,docker,kubernetes,ansible,grafana&perline=8" alt="FastAPI, Spring, React, Next.js, Docker, Kubernetes, Ansible, Grafana" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,react,nextjs,flutter,opencv&perline=8" alt="Spring Boot, FastAPI, Flask, Node.js, React, Next.js, Flutter, OpenCV" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,aws,gcp&perline=6" alt="PostgreSQL, MySQL, MongoDB, Elasticsearch, AWS, Google Cloud" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,githubactions,gitlab,grafana&perline=7" alt="Docker, Kubernetes, Ansible, Terraform, GitHub Actions, GitLab CI, Grafana" />
+
+**Also worked with:** SQL, Assembly, SwiftUI, Spring Security, JWT, OAuth 2.0, JPA/Hibernate, REST APIs, Prisma, TimescaleDB, ZODB, DuckDB, Parquet, Kafka, MinIO, AWS S3/RDS/EC2, ArgoCD, RKE2, TrueNAS, Tailscale, Prometheus, pytest, LangChain, Cohere, OpenAI, Gemini API, Azure Speech, MediaPipe, IndexedDB, Canvas, and Web Audio.
 
 ## 🌎 Outside of Code
 
