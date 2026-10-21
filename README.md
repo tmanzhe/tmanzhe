@@ -6,8 +6,6 @@ I'm interested in backend systems, data, and infrastructure, and I'm looking for
 
 ## 🚧 What I'm Working On
 
-All in progress · 2026–present
-
 - **[Arc Wall](https://www.tmanzhe.com/projects/arcwall)** — A JARVIS-inspired workshop with hand-controlled projection. Working toward 3D tracking, a CAD workbench, an AI assistant, and live telemetry. [Roadmap →](https://www.tmanzhe.com/projects/arcwall)
 - **[Footage Desk](https://github.com/tmanzhe/footage-desk)** — A local workspace for organizing footage, trimming moments, and making rough cuts. Inspired by getting into videography.
 - **[Homelab](https://github.com/tmanzhe/homelab)** — Reusing old hardware to learn networking, Kubernetes, and infrastructure automation.
@@ -16,7 +14,7 @@ All in progress · 2026–present
 
 **Software Engineer Intern @ Kepler Communications** · Sep 2025–Apr 2026
 
-Worked on satellite telemetry pipelines ingesting roughly 500,000 records every ten minutes, searchable ingestion failures, Slack alerts, and Grafana monitoring. This is where I found out how much I enjoyed working with data.
+Worked on ground software for satellite operations, from telemetry ingestion and cleaning to observability.
 
 **Software Engineer Intern @ AATENG Group** · May–Aug 2025
 
@@ -24,7 +22,7 @@ Led a four-developer team building an esports platform for 1,000+ players, with 
 
 **Software Engineer @ ITMZ** · Jun–Aug 2024
 
-Built a home inventory app that catalogs belongings from room photos. We were [featured in Google's Gemini API Developer Competition](https://ai.google.dev/competition).
+ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile development, Figma designs and mockups, and our demo video, which was [featured in Google's Gemini API Developer Competition](https://ai.google.dev/competition).
 
 ## 🛠️ Languages & Tools
 
