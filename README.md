@@ -6,6 +6,7 @@ I'm interested in backend systems, data, and infrastructure, and I'm looking for
 
 ## 🚧 What I'm Working On
 
+- **[seenX](https://github.com/tmanzhe/seenX)** — A local-first macOS app in development, designed to find screenshots and saved images using OCR and natural-language search.
 - **[Arc Wall](https://www.tmanzhe.com/projects/arcwall)** — A JARVIS-inspired workshop with hand-controlled projection. Working toward 3D tracking, a CAD workbench, an AI assistant, and live telemetry. [Roadmap →](https://www.tmanzhe.com/projects/arcwall)
 - **[Footage Desk](https://github.com/tmanzhe/footage-desk)** — A local workspace for organizing footage, trimming moments, and making rough cuts. Inspired by getting into videography.
 - **[Homelab](https://github.com/tmanzhe/homelab)** — Reusing old hardware to learn networking, Kubernetes, and infrastructure automation.
