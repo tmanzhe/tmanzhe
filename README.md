@@ -6,10 +6,16 @@ I'm interested in backend systems, data, and infrastructure, and I'm looking for
 
 ## 🚧 What I'm Working On
 
-- **[seenX](https://github.com/tmanzhe/seenX)** — A local-first macOS app in development, designed to find screenshots and saved images using OCR and natural-language search.
+- **[infergate](https://github.com/tmanzhe/infergate)** — An OpenAI-compatible LLM gateway with streaming, caching, spend caps, and cheap-first model routing. 89% lower simulated cost than always calling the expensive model.
+- **[HN Hiring Evaluation](https://github.com/tmanzhe/hn-hiring-eval)** — An eval harness over 1,995 Hacker News job posts that measures where LLM extraction beats rules, and where it makes things up.
+- **[ledger](https://github.com/tmanzhe/ledger)** — A double-entry money ledger on Postgres where retries never double-charge. 743 req/s with zero failed audits in a local load test.
+- **[fairq](https://github.com/tmanzhe/fairq)** — A fair multi-tenant queue so one noisy user can't make everyone else wait.
+- **[minikv](https://github.com/tmanzhe/minikv)** — A Redis-compatible cache server with versioned writes that block stale cache fills.
+- **[agentrun](https://github.com/tmanzhe/agentrun)** — A job runner for long AI tasks that resumes from saved steps after a crash.
+- **[seenX](https://github.com/tmanzhe/seenX)** — A local-first macOS app in development for finding screenshots and saved images with OCR and natural-language search.
 - **[Arc Wall](https://www.tmanzhe.com/projects/arcwall)** — A JARVIS-inspired workshop with hand-controlled projection. Working toward 3D tracking, a CAD workbench, an AI assistant, and live telemetry. [Roadmap →](https://www.tmanzhe.com/projects/arcwall)
-- **[Footage Desk](https://github.com/tmanzhe/footage-desk)** — A local workspace for organizing footage, trimming moments, and making rough cuts. Inspired by getting into videography.
-- **[Homelab](https://github.com/tmanzhe/homelab)** — Reusing old hardware to learn networking, Kubernetes, and infrastructure automation.
+
+Also tinkering with [Footage Desk](https://github.com/tmanzhe/footage-desk) (rough cuts for my videography) and a [Homelab](https://github.com/tmanzhe/homelab) built from old hardware.
 
 ## 💼 Where I've Worked
 
@@ -17,7 +23,7 @@ I'm interested in backend systems, data, and infrastructure, and I'm looking for
 
 Worked on ground software for satellite operations, from telemetry ingestion and cleaning to observability.
 
-**Software Engineer Intern @ AATENG Group** · May–Aug 2025
+**Software Engineer & Technical PM Intern @ AATENG Group** · May–Aug 2025
 
 Led a four-developer team building an esports platform for 1,000+ players, with tournament brackets, authentication, and live match chat.
 
