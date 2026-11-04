@@ -13,7 +13,7 @@ I'm interested in backend systems, data, and infrastructure, and I'm looking for
 - **[minikv](https://github.com/tmanzhe/minikv)** — A Redis-compatible cache server with versioned writes that block stale cache fills.
 - **[agentrun](https://github.com/tmanzhe/agentrun)** — A job runner for long AI tasks that resumes from saved steps after a crash.
 - **[seenX](https://github.com/tmanzhe/seenX)** — A local-first macOS app in development for finding screenshots and saved images with OCR and natural-language search.
-- **[Arc Wall](https://www.tmanzhe.com/projects/arcwall)** — A JARVIS-inspired workshop with hand-controlled projection. Working toward 3D tracking, a CAD workbench, an AI assistant, and live telemetry. [Roadmap →](https://www.tmanzhe.com/projects/arcwall)
+- **[Arc Wall](https://github.com/tmanzhe/arcwall)**: turns a regular projector into a hand-controlled workspace. Draw on the wall, grab and resize objects with your hands via webcam tracking, and corner-fit the image to any wall. [Repo →](https://github.com/tmanzhe/arcwall)
 
 Also tinkering with [Footage Desk](https://github.com/tmanzhe/footage-desk) (rough cuts for my videography) and a [Homelab](https://github.com/tmanzhe/homelab) built from old hardware.
 
