@@ -29,7 +29,7 @@ Led a four-developer team building an esports platform for 1,000+ players, with 
 
 **Software Engineer @ ITMZ** · Jun–Aug 2024
 
-ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile development, Figma designs and mockups, and our demo video, which was [featured in Google's Gemini API Developer Competition](https://ai.google.dev/competition).
+ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile development, Figma designs and mockups, and our demo video, which was [featured in Google's Gemini API Developer Competition](https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/).
 
 ## 🛠️ Languages & Tools
 
