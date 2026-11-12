@@ -1,8 +1,25 @@
 # 👋 Hi, I'm Truman Chan
 
-I'm a CS / Management double-degree student at York University and Schulich, based in Toronto and graduating in April 2028. Most recently, I was a Software Engineer Intern at Kepler Communications, building data and monitoring tools for satellite operations.
+I'm a CS / Management double-degree student at York University and Schulich, based in Toronto and graduating in April 2028. 
 
 I'm interested in backend systems, data, and infrastructure, and I'm looking for my next internship. Always happy to learn something new and take on more as I go!
+
+## 💼 Where I've Worked
+
+**Incoming Software Engineer Intern @ BMO**
+
+**Software Engineer Intern @ Kepler Communications** · Sep 2025–Apr 2026
+
+Worked on ground software for satellite operations, from telemetry ingestion, storing, cleaning to observability.
+
+**Software Engineer & Technical PM Intern @ AATENG Group** · May–Aug 2025
+
+Led a four-developer team building an esports platform for 1,000+ players, with tournament brackets, authentication, and live match chat.
+
+**Software Engineer @ ITMZ** · Jun–Aug 2024
+
+ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile development, Figma designs and mockups, and our demo video, which was [featured in Google's Gemini API Developer Competition](https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/).
+
 
 ## 🚧 What I'm Working On
 
@@ -13,23 +30,19 @@ I'm interested in backend systems, data, and infrastructure, and I'm looking for
 - **[minikv](https://github.com/tmanzhe/minikv)** — A Redis-compatible cache server with versioned writes that block stale cache fills.
 - **[agentrun](https://github.com/tmanzhe/agentrun)** — A job runner for long AI tasks that resumes from saved steps after a crash.
 - **[seenX](https://github.com/tmanzhe/seenX)** — A local-first macOS app in development for finding screenshots and saved images with OCR and natural-language search.
-- **[Arc Wall](https://github.com/tmanzhe/arcwall)**: turns a regular projector into a hand-controlled workspace. Draw on the wall, grab and resize objects with your hands via webcam tracking, and corner-fit the image to any wall. [Repo →](https://github.com/tmanzhe/arcwall)
 
-Also tinkering with [Footage Desk](https://github.com/tmanzhe/footage-desk) (rough cuts for my videography) and a [Homelab](https://github.com/tmanzhe/homelab) built from old hardware.
+## 🌎 Outside of Code
 
-## 💼 Where I've Worked
+I love traveling, usually with a camera in hand. Lately I've been getting into videography and photography, ran my first 10K, and rode the Ha Giang Loop in Vietnam.
 
-**Software Engineer Intern @ Kepler Communications** · Sep 2025–Apr 2026
+Up next: a California road trip and a mountain hike in Guatemala. Indonesia and Peru are the dream trips!
 
-Worked on ground software for satellite operations, from telemetry ingestion and cleaning to observability.
+## 📫 Let's Connect
 
-**Software Engineer & Technical PM Intern @ AATENG Group** · May–Aug 2025
+🌐 [Portfolio](https://www.tmanzhe.com/) · [Resume](https://www.tmanzhe.com/resume.pdf)  
+💼 [LinkedIn](https://www.linkedin.com/in/trumanchan/)  
+📧 [trumanzhe@gmail.com](mailto:trumanzhe@gmail.com)
 
-Led a four-developer team building an esports platform for 1,000+ players, with tournament brackets, authentication, and live match chat.
-
-**Software Engineer @ ITMZ** · Jun–Aug 2024
-
-ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile development, Figma designs and mockups, and our demo video, which was [featured in Google's Gemini API Developer Competition](https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/).
 
 ## 🛠️ Languages & Tools
 
@@ -43,14 +56,3 @@ ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile devel
 
 <img src="https://skillicons.dev/icons?i=hibernate,prisma,kafka,prometheus,azure,figma&perline=6" alt="Hibernate, Prisma, Kafka, Prometheus, Azure, Figma" />
 
-## 🌎 Outside of Code
-
-I love traveling, usually with a camera in hand. Lately I've been getting into videography and photography, ran my first 10K, and rode the Ha Giang Loop in Vietnam.
-
-Up next: a California road trip and a mountain hike in Guatemala. Indonesia and Peru are the dream trips!
-
-## 📫 Let's Connect
-
-🌐 [Portfolio](https://www.tmanzhe.com/) · [Resume](https://www.tmanzhe.com/resume.pdf)  
-💼 [LinkedIn](https://www.linkedin.com/in/trumanchan/)  
-📧 [trumanzhe@gmail.com](mailto:trumanzhe@gmail.com)
