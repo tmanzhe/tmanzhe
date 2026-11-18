@@ -27,7 +27,7 @@
   <tr>
     <td align="center">
       <a href="https://www.tmanzhe.com/" title="Portfolio"><img width="49%" src="assets/site.jpg" alt="a photo from tmanzhe.com, Hoi An at dusk"></a>
-      <a href="https://www.tmanzhe.com/" title="Portfolio"><img width="49%" src="assets/ascii.gif" alt="ASCII rendering of Kinkaku-ji, the golden pavilion in Kyoto, from my own photo"></a>
+      <a href="https://www.tmanzhe.com/gallery" title="Photos"><img width="49%" src="assets/gallery.jpg" alt="The Great Wall of China winding over green mountains, a photo from my gallery"></a>
     </td>
   </tr>
   <tr>
