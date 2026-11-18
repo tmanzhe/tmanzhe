@@ -6,7 +6,16 @@
       <a href="https://www.tmanzhe.com/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/portfolio-light.svg" alt="Portfolio"></picture></a>
       <b>Hi, I'm Truman.</b>
       <p>I'm a CS / Management double-degree student at York University and Schulich, based in Toronto and graduating in April 2028.<br>
-      I'm interested in backend systems, data, and infrastructure, and I'm looking for my next internship. Always happy to learn something new and take on more as I go!</p>
+      I'm interested in backend systems, data, and infrastructure. Always happy to learn something new and take on more as I go!</p>
+      <b>💼 Here's Where I've Worked 😎</b>
+      <ul>
+        <li><b>Software Engineer Intern @ <a href="https://www.bmo.com">BMO</a></b><ul><li>Incoming Winter 2027</li></ul></li>
+        <li><b>Software Engineer Intern @ <a href="https://kepler.space">Kepler Communications</a></b><ul><li>Ground software for satellite operations: telemetry ingestion, storage, cleaning, and observability.</li></ul></li>
+        <li><b>Software Engineer &amp; Technical PM Intern @ AATENG Group</b><ul><li>Led a four-developer team building an esports platform for 1,000+ players.</li></ul></li>
+        <li><b>Software Engineer @ ITMZ</b><ul><li>A Next36-backed home inventory startup. Our demo was <a href="https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/">featured in Google's Gemini API Developer Competition</a>.</li></ul></li>
+      </ul>
+      <b>🚧 What I'm Working On</b>
+      <ul><li>Building my own Grok Bot.</li></ul>
     </td>
   </tr>
   <tr>
