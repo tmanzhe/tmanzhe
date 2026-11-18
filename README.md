@@ -12,14 +12,14 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.tmanzhe.com/projects/homelab" title="Homelab"><img width="100%" src="assets/homelab.gif" alt="Homelab: dragging the 3D schematic to orbit, then switching the inspector to Argo CD and TrueNAS SCALE"></a>
+      <a href="https://www.tmanzhe.com/projects/homelab" title="Homelab"><img width="49%" src="assets/homelab.gif" alt="Homelab: dragging the 3D schematic to orbit, then switching the inspector to Argo CD and TrueNAS SCALE"></a>
+      <a href="https://www.tmanzhe.com/projects/infergate" title="infergate"><img width="49%" src="assets/infergate.gif" alt="infergate: sending a mock curl request, lighting up its path and receiving a 200 response"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.tmanzhe.com/projects/seenx" title="seenX"><img width="32%" src="assets/seenx.gif" alt="seenX: typing softer palette into search to filter saved memories"></a>
-      <a href="https://www.tmanzhe.com/projects/infergate" title="infergate"><img width="32%" src="assets/infergate.gif" alt="infergate: sending a mock curl request, lighting up its path and receiving a 200 response"></a>
-      <a href="https://www.tmanzhe.com/projects/minikv" title="minikv"><img width="32%" src="assets/minikv.gif" alt="minikv: accepting v2 with SETIFNEWER and updating the schematic"></a>
+      <a href="https://www.tmanzhe.com/" title="Portfolio"><img width="49%" src="assets/site.jpg" alt="a photo from tmanzhe.com, Hoi An at dusk"></a>
+      <a href="https://www.tmanzhe.com/" title="ASCII homelab"><img width="49%" src="assets/ascii.gif" alt="ASCII rendering of my homelab, with the tmanzhe wordmark"></a>
     </td>
   </tr>
   <tr>
