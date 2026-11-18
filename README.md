@@ -5,9 +5,8 @@
       <a href="https://www.linkedin.com/in/trumanchan/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/linkedin-light.svg" alt="LinkedIn"></picture></a>
       <a href="https://www.tmanzhe.com/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/portfolio-light.svg" alt="Portfolio"></picture></a>
       <b>Hi, I'm Truman.</b>
-      <p>I'm a CS / Management double-degree student at York University and Schulich, based in Toronto.<br>
-      I'll be joining BMO as a Software Engineer Intern in January 2027.<br>
-      I'm interested in backend systems, data, and infrastructure, and I run a homelab.</p>
+      <p>I'm a CS / Management double-degree student at York University and Schulich, based in Toronto and graduating in April 2028.<br>
+      I'm interested in backend systems, data, and infrastructure, and I'm looking for my next internship. Always happy to learn something new and take on more as I go!</p>
     </td>
   </tr>
   <tr>
@@ -19,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://www.tmanzhe.com/" title="Portfolio"><img width="49%" src="assets/site.jpg" alt="a photo from tmanzhe.com, Hoi An at dusk"></a>
-      <a href="https://www.tmanzhe.com/" title="ASCII homelab"><img width="49%" src="assets/ascii.gif" alt="ASCII rendering of my homelab, with the tmanzhe wordmark"></a>
+      <a href="https://www.tmanzhe.com/" title="Portfolio"><img width="49%" src="assets/ascii.gif" alt="ASCII rendering of Kinkaku-ji, the golden pavilion in Kyoto, from my own photo"></a>
     </td>
   </tr>
   <tr>
