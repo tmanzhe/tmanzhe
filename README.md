@@ -5,18 +5,21 @@
       <a href="https://www.linkedin.com/in/trumanchan/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/linkedin-light.svg" alt="LinkedIn"></picture></a>
       <a href="https://www.tmanzhe.com/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/portfolio-light.svg" alt="Portfolio"></picture></a>
       <b>Hi, I'm Truman.</b>
+      <p>I'm a CS / Management double-degree student at York University and Schulich, based in Toronto.<br>
+      I'll be joining BMO as a Software Engineer Intern in January 2027.<br>
+      I'm interested in backend systems, data, and infrastructure, and I run a homelab.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.tmanzhe.com/gallery"><img width="100%" src="assets/gallery.webp" alt="Photography gallery: camera-style place menu, photo grid and camera settings"></a>
+      <a href="https://www.tmanzhe.com/projects/homelab" title="Homelab"><img width="100%" src="assets/homelab.gif" alt="Homelab: dragging the 3D schematic to orbit, then switching the inspector to Argo CD and TrueNAS SCALE"></a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/tmanzhe/seenX" title="seenX"><img width="32%" src="assets/seenx.webp" alt="seenX: highlighted checkout screenshot with a saved note and search shortcut"></a>
-      <a href="https://github.com/tmanzhe/homelab" title="Homelab"><img width="32%" src="assets/homelab.webp" alt="Homelab: 3D Kubernetes schematic with Git, Ansible, Argo CD, monitoring and storage"></a>
-      <a href="https://github.com/tmanzhe/infergate" title="infergate"><img width="32%" src="assets/infergate.webp" alt="infergate: Postgres request logs and the request path for a cached response"></a>
+      <a href="https://www.tmanzhe.com/projects/seenx" title="seenX"><img width="32%" src="assets/seenx.gif" alt="seenX: typing softer palette into search to filter saved memories"></a>
+      <a href="https://www.tmanzhe.com/projects/infergate" title="infergate"><img width="32%" src="assets/infergate.gif" alt="infergate: sending a mock curl request, lighting up its path and receiving a 200 response"></a>
+      <a href="https://www.tmanzhe.com/projects/minikv" title="minikv"><img width="32%" src="assets/minikv.gif" alt="minikv: accepting v2 with SETIFNEWER and updating the schematic"></a>
     </td>
   </tr>
   <tr>
