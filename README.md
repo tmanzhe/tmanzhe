@@ -1,58 +1,64 @@
-# 👋 Hi, I'm Truman Chan
-
-I'm a CS / Management double-degree student at York University and Schulich, based in Toronto and graduating in April 2028. 
-
-I'm interested in backend systems, data, and infrastructure, and I'm looking for my next internship. Always happy to learn something new and take on more as I go!
-
-## 💼 Where I've Worked
-
-**Incoming Software Engineer Intern @ BMO**
-
-**Software Engineer Intern @ Kepler Communications** · Sep 2025–Apr 2026
-
-Worked on ground software for satellite operations, from telemetry ingestion, storing, cleaning to observability.
-
-**Software Engineer & Technical PM Intern @ AATENG Group** · May–Aug 2025
-
-Led a four-developer team building an esports platform for 1,000+ players, with tournament brackets, authentication, and live match chat.
-
-**Software Engineer @ ITMZ** · Jun–Aug 2024
-
-ITMZ was a Next36-backed home inventory startup. I mainly worked on mobile development, Figma designs and mockups, and our demo video, which was [featured in Google's Gemini API Developer Competition](https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/).
-
-
-## 🚧 What I'm Working On
-
-- **[infergate](https://github.com/tmanzhe/infergate)** — An OpenAI-compatible LLM gateway with streaming, caching, spend caps, and cheap-first model routing. 89% lower simulated cost than always calling the expensive model.
-- **[HN Hiring Evaluation](https://github.com/tmanzhe/hn-hiring-eval)** — An eval harness over 1,995 Hacker News job posts that measures where LLM extraction beats rules, and where it makes things up.
-- **[ledger](https://github.com/tmanzhe/ledger)** — A double-entry money ledger on Postgres where retries never double-charge. 743 req/s with zero failed audits in a local load test.
-- **[fairq](https://github.com/tmanzhe/fairq)** — A fair multi-tenant queue so one noisy user can't make everyone else wait.
-- **[minikv](https://github.com/tmanzhe/minikv)** — A Redis-compatible cache server with versioned writes that block stale cache fills.
-- **[agentrun](https://github.com/tmanzhe/agentrun)** — A job runner for long AI tasks that resumes from saved steps after a crash.
-- **[seenX](https://github.com/tmanzhe/seenX)** — A local-first macOS app in development for finding screenshots and saved images with OCR and natural-language search.
-
-## 🌎 Outside of Code
-
-I love traveling, usually with a camera in hand. Lately I've been getting into videography and photography, ran my first 10K, and rode the Ha Giang Loop in Vietnam.
-
-Up next: a California road trip and a mountain hike in Guatemala. Indonesia and Peru are the dream trips!
-
-## 📫 Let's Connect
-
-🌐 [Portfolio](https://www.tmanzhe.com/) · [Resume](https://www.tmanzhe.com/resume.pdf)  
-💼 [LinkedIn](https://www.linkedin.com/in/trumanchan/)  
-📧 [trumanzhe@gmail.com](mailto:trumanzhe@gmail.com)
-
-
-## 🛠️ Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,dart,swift&perline=7" alt="Python, Java, TypeScript, JavaScript, C, Dart, Swift" />
-
-<img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs,react,nextjs,flutter,opencv&perline=8" alt="Spring Boot, FastAPI, Flask, Node.js, React, Next.js, Flutter, OpenCV" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,aws,gcp&perline=6" alt="PostgreSQL, MySQL, MongoDB, Elasticsearch, AWS, Google Cloud" />
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,githubactions,gitlab,grafana&perline=7" alt="Docker, Kubernetes, Ansible, Terraform, GitHub Actions, GitLab CI, Grafana" />
-
-<img src="https://skillicons.dev/icons?i=hibernate,prisma,kafka,prometheus,azure,figma&perline=6" alt="Hibernate, Prisma, Kafka, Prometheus, Azure, Figma" />
+<table width="100%" cellpadding="12" cellspacing="0">
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/tmanzhe" title="GitHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/e3dfd8"><img align="right" hspace="6" width="22" height="22" src="https://cdn.simpleicons.org/github/242424" alt="GitHub"></picture></a>
+      <a href="https://www.linkedin.com/in/trumanchan/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/linkedin-light.svg" alt="LinkedIn"></picture></a>
+      <a href="https://www.tmanzhe.com/" title="Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img align="right" hspace="6" width="22" height="22" src="assets/portfolio-light.svg" alt="Portfolio"></picture></a>
+      <b>Hi, I'm Truman.</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.tmanzhe.com/gallery"><img width="100%" src="assets/gallery.webp" alt="Photography gallery: camera-style place menu, photo grid and camera settings"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tmanzhe/seenX" title="seenX"><img width="32%" src="assets/seenx.webp" alt="seenX: highlighted checkout screenshot with a saved note and search shortcut"></a>
+      <a href="https://github.com/tmanzhe/homelab" title="Homelab"><img width="32%" src="assets/homelab.webp" alt="Homelab: 3D Kubernetes schematic with Git, Ansible, Argo CD, monitoring and storage"></a>
+      <a href="https://github.com/tmanzhe/infergate" title="infergate"><img width="32%" src="assets/infergate.webp" alt="infergate: Postgres request logs and the request path for a cached response"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>languages</b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-131313?style=flat&amp;logo=python&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Python-f3f0ea?style=flat&amp;logo=python&amp;logoColor=242424" alt="Python"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-131313?style=flat&amp;logo=typescript&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/TypeScript-f3f0ea?style=flat&amp;logo=typescript&amp;logoColor=242424" alt="TypeScript"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Go-131313?style=flat&amp;logo=go&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Go-f3f0ea?style=flat&amp;logo=go&amp;logoColor=242424" alt="Go"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Swift-131313?style=flat&amp;logo=swift&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Swift-f3f0ea?style=flat&amp;logo=swift&amp;logoColor=242424" alt="Swift"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%2B%2B-131313?style=flat&amp;logo=cplusplus&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/C%2B%2B-f3f0ea?style=flat&amp;logo=cplusplus&amp;logoColor=242424" alt="C++"></picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>backend</b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-131313?style=flat&amp;logo=fastapi&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/FastAPI-f3f0ea?style=flat&amp;logo=fastapi&amp;logoColor=242424" alt="FastAPI"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Postgres-131313?style=flat&amp;logo=postgresql&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Postgres-f3f0ea?style=flat&amp;logo=postgresql&amp;logoColor=242424" alt="Postgres"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/DuckDB-131313?style=flat&amp;logo=duckdb&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/DuckDB-f3f0ea?style=flat&amp;logo=duckdb&amp;logoColor=242424" alt="DuckDB"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MCP-131313?style=flat&amp;logo=modelcontextprotocol&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/MCP-f3f0ea?style=flat&amp;logo=modelcontextprotocol&amp;logoColor=242424" alt="MCP"></picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>infra</b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-131313?style=flat&amp;logo=docker&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Docker-f3f0ea?style=flat&amp;logo=docker&amp;logoColor=242424" alt="Docker"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kubernetes-131313?style=flat&amp;logo=kubernetes&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Kubernetes-f3f0ea?style=flat&amp;logo=kubernetes&amp;logoColor=242424" alt="Kubernetes"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Ansible-131313?style=flat&amp;logo=ansible&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Ansible-f3f0ea?style=flat&amp;logo=ansible&amp;logoColor=242424" alt="Ansible"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Argo%20CD-131313?style=flat&amp;logo=argo&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Argo%20CD-f3f0ea?style=flat&amp;logo=argo&amp;logoColor=242424" alt="Argo CD"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Prometheus-131313?style=flat&amp;logo=prometheus&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Prometheus-f3f0ea?style=flat&amp;logo=prometheus&amp;logoColor=242424" alt="Prometheus"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Grafana-131313?style=flat&amp;logo=grafana&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Grafana-f3f0ea?style=flat&amp;logo=grafana&amp;logoColor=242424" alt="Grafana"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vercel-131313?style=flat&amp;logo=vercel&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Vercel-f3f0ea?style=flat&amp;logo=vercel&amp;logoColor=242424" alt="Vercel"></picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>tools</b><br>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-131313?style=flat&amp;logo=react&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/React-f3f0ea?style=flat&amp;logo=react&amp;logoColor=242424" alt="React"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-131313?style=flat&amp;logo=nextdotjs&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Next.js-f3f0ea?style=flat&amp;logo=nextdotjs&amp;logoColor=242424" alt="Next.js"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind-131313?style=flat&amp;logo=tailwindcss&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Tailwind-f3f0ea?style=flat&amp;logo=tailwindcss&amp;logoColor=242424" alt="Tailwind"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Three.js-131313?style=flat&amp;logo=threedotjs&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/Three.js-f3f0ea?style=flat&amp;logo=threedotjs&amp;logoColor=242424" alt="Three.js"></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub%20Actions-131313?style=flat&amp;logo=githubactions&amp;logoColor=e3dfd8"><img height="22" src="https://img.shields.io/badge/GitHub%20Actions-f3f0ea?style=flat&amp;logo=githubactions&amp;logoColor=242424" alt="GitHub Actions"></picture>
+    </td>
+  </tr>
+</table>
 
