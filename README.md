@@ -15,7 +15,7 @@
         <li><b>Software Engineer @ ITMZ</b><ul><li>A Next36-backed home inventory startup. Our demo was <a href="https://developers.googleblog.com/celebrating-innovation-gemini-api-developer-competition/">featured in Google's Gemini API Developer Competition</a>.</li></ul></li>
       </ul>
       <b>🚧 What I'm Working On</b>
-      <ul><li>Building my own Grok Bot.</li></ul>
+      <ul><li>Building a personal AI agent similar to Grok Bot: a platform from scratch with multiple bots, memory, scheduled routines, and tool access.</li></ul>
     </td>
   </tr>
   <tr>
